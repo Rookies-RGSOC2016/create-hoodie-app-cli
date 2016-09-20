@@ -1,0 +1,27 @@
+{
+  "name": "hoodie-desktop-application",
+  "version": "1.0.0",
+  "description": "Hoodie native application with GUI environment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rookies-RGSOC2016/create-hoodie-app-cli.git"
+  },
+  "keywords": [
+    "hoodie",
+    "desktop",
+    "app",
+    "native",
+    "app",
+    "GUI"
+  ],
+  "author": "Hoodie-RGSoC team Rookies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rookies-RGSOC2016/create-hoodie-app-cli/issues"
+  },
+  "homepage": "https://github.com/Rookies-RGSOC2016/create-hoodie-app-cli#readme"
+}
